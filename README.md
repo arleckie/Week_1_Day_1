@@ -26,6 +26,7 @@ Provide examples of scenarios where each would be appropriate.**
  changes are hard to incorporate once a phase is complete.
  - Customer feedback comes late, after the product is developed.
  - Testing is done at the end of the development process.
+ - 
    **would be appropiate when**
   - The requirements and technology are clear, fixed, and stable.
   - The product definition and design are not likely to change during development. 
@@ -37,6 +38,7 @@ Provide examples of scenarios where each would be appropriate.**
 - High flexibility, adapts to changing requirements. 
 - Regular customer feedback is incorporated into every sprint. 
 - Testing is continuous and done after each iteration.
+- 
   **would be appropiate when**
 - The final product functionality is not completed
 - There is no limit to the budget and timing 
